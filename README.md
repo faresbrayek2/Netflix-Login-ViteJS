@@ -21,7 +21,6 @@ Copy code
 ```
 git clone https://github.com/faresbrayek2/Netflix-Login-ViteJS.git
 ```
-
 Install the dependencies<br>
 Copy code
 ```
