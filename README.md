@@ -16,7 +16,7 @@ Well-documented and easy-to-understand code
 To run the project locally, follow these steps:
 
 Clone the repository to your local machine<br>
-bash
+bash<br>
 Copy code
 ```
 git clone https://github.com/faresbrayek2/Netflix-Login-ViteJS.git
@@ -36,7 +36,7 @@ yarn dev
 
 Open your browser and navigate to http://127.0.0.1:5173/<br>
 Deployment<br>
-To deploy the project to a production environment, run the following command:
+To deploy the project to a production environment, run the following command:<br>
 
 Copy code
 ```
